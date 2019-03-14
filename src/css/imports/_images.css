@@ -6,3 +6,9 @@ img {
 img:not(.w-100) {
   border-radius: var(--border-radius);
 }
+
+.image-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
